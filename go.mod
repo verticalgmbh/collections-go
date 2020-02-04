@@ -1,4 +1,4 @@
-module github.com/telmengedar/go.collections
+module github.com/verticalgmbh/collections-go
 
 go 1.13
 
